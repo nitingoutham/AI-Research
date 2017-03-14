@@ -6,7 +6,7 @@ Following the order of topics is imperative ( for anyone referencing my work )
 
 I am aware of the urge to jump to much cooler topics right off the bat , but ORDER IS IMPERATIVE 
 
-### What is machine laerning and artificial intelligence ? both are same ?
+### What is machine learning and artificial intelligence ? both are same ?
 
 ARTIFICIAL INTELLIGENCE  
 
