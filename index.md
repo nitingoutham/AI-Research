@@ -16,6 +16,9 @@ MACHINE LEARNING
 
 Machine Learning is a subset of Artificial Intelligence and it explores the development of algorithms that learn from given data. These algorithms should be able to learn from past experience (i.e. the given data) and teach themselves to adapt to new circumstances and perform certain tasks.
 
+## Hands on 
+1. generative adversarial networks for fraud/anomaly detection
+
 ## Machine learning topics notes & codes ( from scratch)
 
 ### Linear regression from scratch in python (  stochastic gradient descent )
